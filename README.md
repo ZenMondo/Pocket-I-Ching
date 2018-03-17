@@ -14,3 +14,11 @@ The Bitmap Drawing functions were written by Limor Fried/Ladyada for Adafruit In
 
 This project requires the use of an SD card with the TFT Touch Shield.  Place the readings folder on the SD card, and the three bitmaps, yin.bmp, yang.bmp, and query.bmp in the root directory of the SD card.
 
+This project uses the following libraries:
+
+Library for Adafruit ILI9341 displays https://github.com/adafruit/Adafruit_ILI9341
+Adafruit GFX graphics core library https://github.com/adafruit/Adafruit-GFX-Library
+Arduino library for STMPE610/811 resistive touch screen controllers  https://github.com/adafruit/Adafruit_STMPE610
+
+Video Demo: https://www.youtube.com/watch?v=BJ4NHOhtIp8
+
