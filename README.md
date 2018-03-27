@@ -22,5 +22,7 @@ Adafruit GFX graphics core library https://github.com/adafruit/Adafruit-GFX-Libr
 
 Arduino library for STMPE610/811 resistive touch screen controllers  https://github.com/adafruit/Adafruit_STMPE610
 
+Arduino SD Library https://www.arduino.cc/en/Reference/SD
+
 Video Demo: https://www.youtube.com/watch?v=BJ4NHOhtIp8
 
